@@ -378,7 +378,7 @@ header .head_time{
 }
 .bottom .bottom_right .right_text .right_text_1 ul{
 	/*list-style: none;*/
-	list-style-image: ("/img/triangle.png");
+	list-style-image: url("../img/triangle.png");
 	
 }
 
